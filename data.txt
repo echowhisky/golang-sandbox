@@ -1,0 +1,13 @@
+---
+time: late
+fruit:
+    apples: 6
+    oranges: 7
+    kiwi: 1
+    banannas: 0
+    plums: 10
+    strawberries: 5
+    raspberries: 2
+    blueberries: 0
+    figs: 9
+    pears: 7
